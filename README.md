@@ -6,10 +6,6 @@
 </p>
 
 <p align="center">
- <a href="https://www.phorm.ai/query?projectId=755eecd3-24ad-49cc-abf4-0ab84caacf63"><img src="https://img.shields.io/badge/Phorm-Ask_AI-%23F2777A.svg" alt="phorm.ai"></a>
-</p>
-
-<p align="center">
   <img width="auto" height="400" src="https://github.com/nomic-ai/gpt4all/assets/14168726/495fce3e-769b-4e5a-a394-99f072ac4d29">
 </p>
 <p align="center">
