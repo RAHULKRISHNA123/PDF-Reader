@@ -16,6 +16,7 @@ Run on an M2 MacBook Pro (not sped up!)
 
 <h2>How to install the PDF reader:</h2>
 <p>Click on your respective desktop model to install the desktop version</p>
-<p align="center">
+<p>
   Desktop Download Links: <a href="https://gpt4all.io/installers/gpt4all-installer-win64.exe">Windows</a> &mdash; <a href="https://gpt4all.io/installers/gpt4all-installer-darwin.dmg">macOS</a> &mdash; <a href="https://gpt4all.io/installers/gpt4all-installer-linux.run">Ubuntu</a>
 </p>
+<p>Navigate to the Models branch and download the necessary model files to the main folder on your desktop where your PDF Reader is located.</p>
