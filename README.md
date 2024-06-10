@@ -1,4 +1,4 @@
-<h1 align="center">GPT4All</h1>
+<h1 align="center">PDF Reader</h1>
 <p align="center">Privacy-oriented software for chatting with large language models that run on your own computer.</p>
 <p align="center">
   <a href="https://gpt4all.io">Official Website</a> &bull; <a href="https://docs.gpt4all.io">Documentation</a> &bull; <a href="https://discord.gg/mGZE39AS3e">Discord</a>
